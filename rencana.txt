@@ -1,2 +1,2 @@
-Pemrograman Web
-Multimedia
+Pemrograman Web -> Laravel
+Multimedia -> Video, Desain 
